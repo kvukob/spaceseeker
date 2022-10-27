@@ -1,5 +1,12 @@
 # spaceseeker
 
+Spaceseeker
+
+A way to browse from NASA's api that is similar in style to instagram.
+
+
+
+
 ## Project setup
 ```
 npm install
